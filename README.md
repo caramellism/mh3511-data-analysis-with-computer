@@ -14,7 +14,7 @@ factors influencing booking completion and to explore the association between tr
 ## Methods 
 - Data cleaning and preprocessing 
 - Exploratory Data Analysis (EDA) and visualization
-- Hypothesis testing (Chi-Square Test & Wilcoxon Rank Sum Test) and correlation analysis
+- Hypothesis testing (Chi-Square Test & Wilcoxon Rank Sum Test) 
 - Logistic regression analysis to study how customer preferences and trip characteristics are associated with booking completion and how trip characteristics are associated with preference selection outcomes
 
 ## Key Findings
